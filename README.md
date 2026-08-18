@@ -1,14 +1,18 @@
-# Hi, I'm Sagar Kaushik
-**A passionate web developer**
+Hi, I'm Sagar Kaushik
+A passionate Full-Stack Web Developer
 
-Email Me ✉️ **sagarkaushik584@gmail.com** For Collaboration/Project or Anything Else.
+I'm a Computer Science graduate passionate about building scalable, responsive, and user-friendly web applications. I enjoy working across both frontend and backend, building REST APIs, and solving real-world problems through code.
 
-- **I’m currently working on:** Building a scalable and resposive Full-Stack web application using modern tech  
-- **I’m currently learning:** Advanced backend concepts API's and sql database optimizations
-- **Ask me about:** HTML, CSS, JavaScript, React, Node.js, and REST APIs
-- **How to reach me:** sagarkaushik584@gmail.com
-- **Pronouns:** He/Him
-- **Fun fact:** I love building complete web apps from scratch and solving real-world problem
+Email: sagarkaushik584@gmail.com
+Interested in: Full-Stack Development, Backend Development, REST APIs & Database Optimization
+
+I’m currently working on: Building scalable and responsive full-stack web applications using modern technologies
+I’m currently learning: Python, FastAPI, advanced backend concepts, API development, and SQL database optimization
+Ask me about: HTML, CSS, JavaScript, React, Node.js, Python, FastAPI, REST APIs, and MongoDB
+I enjoy: Building complete web applications from scratch and solving real-world problems
+Goal: To become a strong Full-Stack & Backend Developer
+How to reach me: sagarkaushik584@gmail.com
+Fun fact: I love turning ideas into working applications and learning new technologies by building projects
   
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5ZpPwn56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsagarkaushik_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sagar-kaushik-21a833298) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sagar Kaushik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarkaushik584@gmail.com) 
